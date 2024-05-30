@@ -1,0 +1,1 @@
+bubble sort memiliki kompleksitas algoritma O(n^2) karena terdapat nested loop dalam bubble sort
